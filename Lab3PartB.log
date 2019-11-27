@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  Lab3PartB.cpp
+d:\112\lab 3\lab3\lab3partb\lab3partb\lab3partb.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab3PartB.vcxproj -> D:\112\Lab 3\Lab3\Lab3PartB\Debug\Lab3PartB.exe
